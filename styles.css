@@ -1,0 +1,18 @@
+img {
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+    margin: 0 auto;
+    display: block;
+}
+h1 , #caption{
+    text-align: center;
+}
+
+
+figure {
+   background-color: aliceblue;
+}
+main {
+    background-color: #EEEEEE;
+}
